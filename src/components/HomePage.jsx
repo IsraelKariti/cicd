@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 
 export const HomePage = ()=>{
     return <>
-        <div>home page</div>
+        <div>home page! crazy!</div>
         <Link to="/profiles">to profiles</Link>
     </> 
 }
