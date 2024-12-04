@@ -4,7 +4,7 @@ import axios from "axios";
 import { Computer } from "./Computer";
  
 export const HomePage = ()=>{
-    console.log('BACKEND::');
+    console.log('BACKEND:::');
     console.log(process.env.REACT_APP_BACKEND); 
     
     const [val, setVal] = useState([]);
