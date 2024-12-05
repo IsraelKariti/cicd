@@ -32,7 +32,7 @@ export const HomePage = ()=>{
         })();
     },[]);
     return <>
-        <div>home page! crazy!</div>
+        <div>home page! crazy!bitch!finaly!clearrrrr acl all the way fresh start east sad bucket name with ACLs</div>
         <Link to="/profiles">to profiles</Link>
         <form onSubmit={onFormSubmit}>
             <label >manufacturer</label>
